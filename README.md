@@ -42,7 +42,9 @@ L'analyse a été réalisée en plusieurs étapes :
 
 *   **Performance Globale** : Sur la période, le Superstore a réalisé un chiffre d'affaires total de **2 295 274 €** et un bénéfice total de **285 988 €** pour un total de **9 988 commandes**.
 *   **Performance par Région** : La région **West** est la plus performante en termes de ventes (725 457 €) et de profit (108 418 €), suivie de près par la région **East**. La région **South** génère le moins de ventes, indiquant un potentiel de croissance.
+
    ![Performance par région](./image/Performance%20par%20region.png)
+   
 *   **Performance par Catégorie de Produits** :
     *   La catégorie **Technology** est celle qui génère le plus de ventes (834 227 $), avec les **Phones** comme sous-catégorie phare.
     *   Les **Tables** dans la catégorie **Furniture** semblent être un point d'attention, avec des ventes importantes mais probablement des marges plus faibles, suggérées par des remises élevées.
