@@ -1,0 +1,9 @@
+# Fichiers temporaires Excel
+~$*.xlsx
+*.xlsx~
+
+# Fichiers système Mac
+.DS_Store
+
+# Fichiers système Windows
+Thumbs.db
