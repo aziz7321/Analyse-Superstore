@@ -46,13 +46,13 @@ L'analyse a été réalisée en plusieurs étapes :
    ![Performance par région](./image/Performance%20par%20region.png)
    
 *   **Performance par Catégorie de Produits** :
-    *   La catégorie **Technology** est celle qui génère le plus de ventes (834 227 $), avec les **Phones** comme sous-catégorie phare.
+    *   La catégorie **Technology** est celle qui génère le plus de ventes (834 227 €), avec les **Phones** comme sous-catégorie phare.
     *   Les **Tables** dans la catégorie **Furniture** semblent être un point d'attention, avec des ventes importantes mais probablement des marges plus faibles, suggérées par des remises élevées.
 
     ![Performance par catégorie](./image/Performance%20par%20categorie%20et%20sous%20categorie%20.png)
 
-*   **Rentabilité par Segment de Clientèle** : Le segment **Consumer** est le plus important, générant près de la moitié du profit total (134 017 $), suivi par **Corporate** et **Home Office**.
-*   **Tendance Temporelle** : Les ventes sont en constante augmentation de 2014 à 2017, passant de 483 722 $ à 732 514 $. Cette croissance annuelle est un très bon signe pour l'entreprise.
+*   **Rentabilité par Segment de Clientèle** : Le segment **Consumer** est le plus important, générant près de la moitié du profit total (134 017 €), suivi par **Corporate** et **Home Office**.
+*   **Tendance Temporelle** : Les ventes sont en constante augmentation de 2014 à 2017, passant de 483 722 € à 732 514 €. Cette croissance annuelle est un très bon signe pour l'entreprise.
     
     ![Tendance Temporelle](./image/Tendance%20temporelle.png)
 
